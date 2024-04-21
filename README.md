@@ -3,7 +3,7 @@
 <h3 align="center">I'm Eslam. A passionate Ruby on Rails Engineer with a demonstrated history of working in the computer and network security industry.</h3>
 
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 Solving **real world** problems with AI
 
 - 💬 Ask me about **Ruby / Rails**
 
